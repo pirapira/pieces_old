@@ -1,5 +1,7 @@
 
-= Instiki
+= Pieces
+
+Pieces is based on Instinki.
 
 Instiki is a wiki clone so pretty and easy to set up, you'll wonder if it’s really a wiki. Runs on Rails and focuses on portability and stability. Supports file uploads, PDF export, RSS, multiple users and password protection. Some use Instiki as a CMS (Content Management System) because of it's ability to export static pages.
 
@@ -163,3 +165,7 @@ From 0.13 onwards:: Matthias Tarasiewicz and Jacques Distler
 Email:: instiki-devel[AT]rubyforge.org
 Weblog Jacques: http://golem.ph.utexas.edu/~distler/blog/
 Weblog Parasew: http://parasew.com
+
+From Pieces 0.0:: Yoichi Hirai
+Email:: yhirai@yugen.org
+Weblog: http://log.pira.jp
