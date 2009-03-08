@@ -1,4 +1,12 @@
 [todo]
+first drop many features such as latex.
+(they are difficult .. what about splitting?)
+
+drop these from the repository:
+db/production.db.sqlite3
+log/production.log
+
+make it pass the test
 change names and logo
 setup a bug tracking system
 change edit behaviour to "copy and edit"
